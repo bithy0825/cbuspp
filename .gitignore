@@ -1,0 +1,17 @@
+build/
+.cache
+compile_commands.json
+.DS_Store
+.vscode/
+*.swp
+*.user
+*~
+# C++
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+# Temp
+tmp/
