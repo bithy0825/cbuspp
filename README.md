@@ -1,30 +1,25 @@
 # CBUSPP
 
-[![C++23](https://img.shields.io/badge/C%2B%2B-23-blue.svg)](https://en.cppreference.com/w/cpp/23) [![Header Only](https://img.shields.io/badge/header--only-yes-green.svg)]() [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)]()
+**CBUSPP** is an event bus library written in C++23.
 
-**CBUSPP** is a high-performance, zero-overhead, cross-platform event bus library for C++23. For full documentation please choose a language below.
+## Documentation / 文档
 
-## 🔀 Translations / 翻译
+Please choose a language to read the full documentation:
+请选择一种语言阅读完整文档：
 
-- **English (original)**: `README.en.md` ✅
-- **中文 (Chinese translation)**: `README.zh.md` ✅
+- [**English**](README.en.md)
+- [**中文 (Chinese)**](README.zh.md)
 
-> If you want to add another translation, see **Contributing** below.
+## Quick Links
 
-## 🚀 Quick links
+- **Source Code**: `include/cbuspp/`
+- **Build System**: CMake
+- **Tests**: `test/`
 
-- Source headers: `include/cbuspp/`
-- Build system: CMake (see top-level `CMakeLists.txt`)
-- Tests: `test/`
+## Note
 
-## ✍️ Contributing translations
+This library was developed with the assistance of AI tools.
 
-1. Fork the repository and add a new file `README.<lang>.md` (for example `README.es.md` for Spanish).
-2. Translate `README.en.md` (prefer keeping technical terms consistent) and add a short note at the top indicating the translator.
-3. Submit a pull request and reference this README.
+## License
 
-## 📄 License
-
-This project is licensed under the MIT License (see repository files).
-
----
+MIT License
