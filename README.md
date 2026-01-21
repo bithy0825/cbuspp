@@ -28,5 +28,3 @@
 This project is licensed under the MIT License (see repository files).
 
 ---
-
-如果你想要我把该文件更完善（例如增加徽章、快速构建示例或链接到特定文档节），告诉我需要的内容，我会继续更新。
